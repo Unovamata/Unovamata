@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Python, Unity, JS, HTML, CSS, or C#.**
 
-- 📱 Discord **Daoko#7657.**
+- 📱 Discord **ZenAkiSen.**
 
 - ⚡ Fun fact **I love learning new technologies.**
 
