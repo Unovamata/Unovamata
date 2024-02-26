@@ -15,4 +15,8 @@
 
 <br></br>
 
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unovamata&show_icons=true&theme=dark&locale=en&layout=compact" alt="unovamata" /></p>
+<p  align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unovamata&show_icons=true&theme=dark&locale=en&layout=compact" alt="unovamata" />
+  <img align="center" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Unovamata&theme=dark" />
+</p>
+
