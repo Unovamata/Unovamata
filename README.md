@@ -1,5 +1,5 @@
 <h1 align="center">I'm known as Zen</h1>
-<h3 align="center">A developer with too many private C# projects.</h3>
+<h3 align="center">A developer with an excess of private projects.</h3>
 
 - 🌱 I’m currently learning **AI, Data Science, and Machine Learning.**
 
